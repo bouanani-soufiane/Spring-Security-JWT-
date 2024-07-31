@@ -5,6 +5,8 @@
 This repository is a practical guide for implementing JWT (JSON Web Token) authentication and authorization in a Spring Boot 3.0 application using Spring Security 6, with a PostgreSQL database for storing user credentials.
 ```
 
+![jwt digram](jwt.png)
+
 ## What You'll Learn :
 
 * **Database Setup** : Initialize a PostgreSQL database and create a user table to securely store user credentials.
